@@ -5,6 +5,7 @@ class Main {
     int ebeneYearlySalary = ebene.getMonthlySalary() *12;
     System.out.printf("The yearly salary for the employee %s, %s is %d", ebene.getLastName(), ebene.getFirstName(), ebeneYearlySalary);
      System.out.println();
+     
 int lanYearlySalary = lan.getMonthlySalary() *12;
 
     System.out.printf("The yearly salary for the employee %s, %s is %d", lan.getLastName(), lan.getFirstName(), lanYearlySalary);
